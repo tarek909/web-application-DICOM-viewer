@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Web DICOM Image Viewer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DICOM Viewer
+This is a web-based project. created with ReactJS. <br/>
+It can Load DICOM images and navigate through them. There is some widgets to add more functionalities to the project.
+
+
+
+https://user-images.githubusercontent.com/61352701/205047102-9022e242-91c7-48ed-b008-ef5dae799485.mp4
+
 
 ## Available Scripts
 
