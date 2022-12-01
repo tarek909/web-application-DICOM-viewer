@@ -4,9 +4,8 @@
 This is a web-based project. created with ReactJS. <br/>
 It can Load DICOM images and navigate through them. There is some widgets to add more functionalities to the project.
 
-
-
 https://user-images.githubusercontent.com/61352701/205047102-9022e242-91c7-48ed-b008-ef5dae799485.mp4
+
 ![WhatsApp Image 2022-12-01 at 2 01 54 PM](https://user-images.githubusercontent.com/61352701/205049455-200e0557-1320-4ba8-980b-3d8902b2b573.jpeg)
 ![WhatsApp Image 2022-12-01 at 2 01 53 PM](https://user-images.githubusercontent.com/61352701/205049464-3426027c-d510-441f-bc9f-57f7f76b80c1.jpeg)
 
